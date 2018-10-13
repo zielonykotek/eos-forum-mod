@@ -1,5 +1,6 @@
 {
 	"accounts": [
+		"spamuserexample"
 	],
 	"transactions": [
 		"37a6c2880f2bbfb4d19b820362a0f995ba4a06da0d154cd4e27256c9f72e97ba"
@@ -11,5 +12,8 @@
 		"anon": [
 			"c40e67fc6af7f6f3a2cba1ce2b8af9451fc781b1da026b76be2e93cf410a5a27"
 		]
-	}
+	},
+	"nsfw": [
+		"1b902525ecbe77889cd452d039194b157969a455d0e2f1c862205721c49a2d27"
+	]
 }
