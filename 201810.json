@@ -4,5 +4,13 @@
 	],
 	"transactions": [
 		"37a6c2880f2bbfb4d19b820362a0f995ba4a06da0d154cd4e27256c9f72e97ba"
-	]
+	],
+	"pinned": {
+		"all": [
+			"20cfcaa4f8b7339c040c8b45006b1647ebc16bc359f97428965c7729a0328de0"
+		],
+		"anon": [
+			"c40e67fc6af7f6f3a2cba1ce2b8af9451fc781b1da026b76be2e93cf410a5a27"
+		]
+	}
 }
