@@ -1,0 +1,29 @@
+{
+	"accounts": [
+	],
+	"transactions": [
+	],
+	"pinned": {
+		"all": [
+			"40b5a21383b2ee619d98cc6d3d2fa53f5a05d432992f2db280ce934628c7b27d"
+		],
+		"eoscafe": [
+			"ce4285f48ec1acadaf63103a4338e208567760296b655c11113744c27d2870a8"
+		],
+		"pixeos": [
+			"c4df1b257c6675e653ee1b9121413db4333930c623c13baa91a88f7c02acb018"
+		],
+		"eoshash": [
+			"14c3a230c9ce7680083959b469c317c6761a9a20fc677d4db59519c7782f8353"
+		],
+		"rovegas": [
+			"24682c6a4463e008fa87d908b4f963ac60af396860e07f1676c818c2ea6de266"
+		],
+		"airdropsdac": [
+			"18b843b20210078477679c7973642c2c9bf0d9604e41b92c32f16684275040ec",
+			"83483955f4058c35f1a7159c216efa96e21a8f4448a5f2daab97b559ae848fa6"
+		],
+    "patreos": [
+      "e82a781dd210cdb8013aab6a243f41a1cf2f16529806ce7f0c54a4fd429cc272"
+	}
+}
